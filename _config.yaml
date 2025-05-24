@@ -3,6 +3,9 @@ title: Digital Twin & Robot Ecosystems with AI for Mobility, Manufacturing, and 
 subtitle: CCE, University of Florida
 description: Test
 
+url: "https://dream3lab.github.io"   
+baseurl: ""                             
+
 header-dark: false
 
 # site social media and other links
